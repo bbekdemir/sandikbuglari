@@ -10,5 +10,7 @@ Kaynak: CHP Sandik Takip Sistemi (http://sts.chp.org.tr/)
 
 
 https://twitter.com/bbekdemir
+
 https://twitter.com/erenyanik
+
 https://twitter.com/hakanbayraksan
